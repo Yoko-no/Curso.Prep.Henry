@@ -1,0 +1,5 @@
+Variable: es un lugar donde puedo guardar cosas.
+Strings:es un tipo de dato, compusto por una cadena de caracteres que van entre comillas
+Funciones:conjunto de instrucciones que realiza una tarea o devuelve un valor
+Declaraciones if:es una instruccion que tiene una condicion
+Valores booleanos:tipo de datos que son true(verdaderos) or false(falso
